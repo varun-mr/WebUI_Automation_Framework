@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6178" started-at="2021-09-02T18:03:37 IST" finished-at="2021-09-02T18:03:43 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6178" started-at="2021-09-02T18:03:37 IST" finished-at="2021-09-02T18:03:43 IST">
+      <class name="com.WebBrowser.TestCases.FirstTest">
+        <test-method status="PASS" signature="searchBox()[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchBox" duration-ms="197" started-at="2021-09-02T18:03:37 IST" finished-at="2021-09-02T18:03:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBox -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="146" started-at="2021-09-02T18:03:39 IST" data-provider="dp" finished-at="2021-09-02T18:03:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=Testing}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="145" started-at="2021-09-02T18:03:39 IST" data-provider="dp" finished-at="2021-09-02T18:03:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=Gmail}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="145" started-at="2021-09-02T18:03:40 IST" data-provider="dp" finished-at="2021-09-02T18:03:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=Youtube}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="361" started-at="2021-09-02T18:03:40 IST" data-provider="dp" finished-at="2021-09-02T18:03:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=Microsoft}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="190" started-at="2021-09-02T18:03:41 IST" data-provider="dp" finished-at="2021-09-02T18:03:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=Apple}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="165" started-at="2021-09-02T18:03:41 IST" data-provider="dp" finished-at="2021-09-02T18:03:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=Amazon}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="180" started-at="2021-09-02T18:03:42 IST" data-provider="dp" finished-at="2021-09-02T18:03:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=FlipKart}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="183" started-at="2021-09-02T18:03:42 IST" data-provider="dp" finished-at="2021-09-02T18:03:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=Walmart}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="searchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="searchGoogle" duration-ms="146" started-at="2021-09-02T18:03:42 IST" data-provider="dp" finished-at="2021-09-02T18:03:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ValueToSearch=Target}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="singleSearchGoogle(java.util.HashMap)[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="singleSearchGoogle" duration-ms="188" started-at="2021-09-02T18:03:43 IST" data-provider="dp" finished-at="2021-09-02T18:03:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{SingleValueToSearch=Single}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleSearchGoogle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.WebBrowser.TestCases.FirstTest@cfbc8e8]" name="teardown" is-config="true" duration-ms="1197" started-at="2021-09-02T18:03:44 IST" finished-at="2021-09-02T18:03:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.WebBrowser.TestCases.FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

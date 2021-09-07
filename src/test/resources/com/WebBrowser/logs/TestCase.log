@@ -1,0 +1,132 @@
+[DEBUG] 2021-09-01 21:46:37.203 [main] BaseClass - Verifying the visibility of the Element: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:37.215 [main] BaseClass - Verifying the on an Element : Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:39.857 [main] BaseClass - Typing the Testingin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:40.047 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:40.664 [main] BaseClass - Typing the Gmailin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:40.808 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:41.213 [main] BaseClass - Typing the Youtubein locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:41.296 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:41.632 [main] BaseClass - Typing the Microsoftin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:41.689 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:41.942 [main] BaseClass - Typing the Applein locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:41.994 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:42.262 [main] BaseClass - Typing the Amazonin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:42.320 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:42.567 [main] BaseClass - Typing the FlipKartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:42.625 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:42.947 [main] BaseClass - Typing the Walmartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:43.034 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:43.381 [main] BaseClass - Typing the Targetin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:43.428 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:43.902 [main] BaseClass - Typing the SingleWordin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:46:43.954 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:11.720 [main] BaseClass - Verifying the visibility of the Element: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:11.732 [main] BaseClass - Verifying the on an Element : Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:14.060 [main] BaseClass - Typing the Testingin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:14.135 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:14.431 [main] BaseClass - Typing the Gmailin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:14.492 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:14.771 [main] BaseClass - Typing the Youtubein locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:14.827 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:15.190 [main] BaseClass - Typing the Microsoftin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:15.436 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:16.040 [main] BaseClass - Typing the Applein locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:16.334 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:16.730 [main] BaseClass - Typing the Amazonin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:16.799 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:17.192 [main] BaseClass - Typing the FlipKartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:17.238 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:17.508 [main] BaseClass - Typing the Walmartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:17.557 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:17.857 [main] BaseClass - Typing the Targetin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:17.899 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:18.353 [main] BaseClass - Typing the SingleWordin locator: Search_Box_XPATH
+[DEBUG] 2021-09-01 21:48:18.430 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:37.786 [main] BaseClass - Verifying the visibility of the Element: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:37.819 [main] BaseClass - Verifying the on an Element : Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:39.622 [main] BaseClass - Typing the Testingin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:39.674 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:39.961 [main] BaseClass - Typing the Gmailin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:40.012 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:40.347 [main] BaseClass - Typing the Youtubein locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:40.386 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:40.700 [main] BaseClass - Typing the Microsoftin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:40.915 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:41.430 [main] BaseClass - Typing the Applein locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:41.521 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:41.818 [main] BaseClass - Typing the Amazonin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:41.891 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:42.274 [main] BaseClass - Typing the FlipKartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:42.331 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:42.680 [main] BaseClass - Typing the Walmartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:42.731 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:43.022 [main] BaseClass - Typing the Targetin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:43.072 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:43.484 [main] BaseClass - Typing the SingleWordin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:03:43.529 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:34.694 [main] BaseClass - Verifying the visibility of the Element: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:34.704 [main] BaseClass - Verifying the on an Element : Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:36.338 [main] BaseClass - Typing the Testingin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:36.389 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:36.628 [main] BaseClass - Typing the Gmailin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:36.677 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:36.899 [main] BaseClass - Typing the Youtubein locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:36.948 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:37.224 [main] BaseClass - Typing the Microsoftin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:37.268 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:37.511 [main] BaseClass - Typing the Applein locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:37.569 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:37.797 [main] BaseClass - Typing the Amazonin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:37.866 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:38.200 [main] BaseClass - Typing the FlipKartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:38.360 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:38.862 [main] BaseClass - Typing the Walmartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:38.908 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:39.244 [main] BaseClass - Typing the Targetin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:39.285 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:39.786 [main] BaseClass - Typing the SingleWordin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:04:39.835 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:21.144 [main] BaseClass - Verifying the visibility of the Element: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:21.157 [main] BaseClass - Verifying the on an Element : Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:23.859 [main] BaseClass - Typing the Testingin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:24.101 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:24.556 [main] BaseClass - Typing the Gmailin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:24.604 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:24.826 [main] BaseClass - Typing the Youtubein locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:24.868 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:25.575 [main] BaseClass - Typing the Microsoftin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:25.619 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:25.840 [main] BaseClass - Typing the Applein locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:25.887 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:26.224 [main] BaseClass - Typing the Amazonin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:26.265 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:26.499 [main] BaseClass - Typing the FlipKartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:26.549 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:26.785 [main] BaseClass - Typing the Walmartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:26.860 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:27.226 [main] BaseClass - Typing the Targetin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:27.275 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:27.665 [main] BaseClass - Typing the SingleWordin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 18:07:27.724 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:11.594 [main] BaseClass - Verifying the visibility of the Element: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:11.653 [main] BaseClass - Verifying the on an Element : Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:14.341 [main] BaseClass - Typing the Testingin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:14.439 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:15.039 [main] BaseClass - Typing the Gmailin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:15.085 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:16.074 [main] BaseClass - Typing the Youtubein locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:16.136 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:16.415 [main] BaseClass - Typing the Microsoftin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:16.467 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:16.756 [main] BaseClass - Typing the Applein locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:16.811 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:17.041 [main] BaseClass - Typing the Amazonin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:17.111 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:17.403 [main] BaseClass - Typing the FlipKartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:17.458 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:17.764 [main] BaseClass - Typing the Walmartin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:17.821 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:18.306 [main] BaseClass - Typing the Targetin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:18.357 [main] BaseClass - Clicking on the locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:18.709 [main] BaseClass - Typing the SingleWordin locator: Search_Box_XPATH
+[DEBUG] 2021-09-02 19:26:18.763 [main] BaseClass - Clicking on the locator: Search_Box_XPATH

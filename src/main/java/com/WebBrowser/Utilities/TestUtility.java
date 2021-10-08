@@ -52,8 +52,8 @@ public class TestUtility extends BaseClass {
 			for (int j = 0; j < cols; j++) {
 				map.put(ExcelOperations.getCellData(filePath, sheetName, 0, j),
 						ExcelOperations.getCellData(filePath, sheetName, i + 1, j));
-				data[i][0] = map;
 			}
+			data[i][0] = map;
 		}
 		return data;
 

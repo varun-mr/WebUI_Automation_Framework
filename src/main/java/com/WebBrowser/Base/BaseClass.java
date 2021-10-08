@@ -14,6 +14,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
@@ -465,5 +466,15 @@ public class BaseClass {
 	public void javascriptClick(WebElement locator) {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click();", locator);
+	}
+	
+	public static String randomstring() {
+		String generatedString = RandomStringUtils.randomAlphabetic(5);
+		return (generatedString);
+	}
+	
+	public static int randomNum() {
+		String generatedNum = RandomStringUtils.randomNumeric(4);
+		return (Integer.parseInt(generatedNum));
 	}
 }
